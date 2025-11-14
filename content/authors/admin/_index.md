@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Leo Wang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Leo
+last_name: Wang
 
 # Pronouns (optional)
 pronouns: he/him
